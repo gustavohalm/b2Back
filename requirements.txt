@@ -1,0 +1,4 @@
+Django==2.2.3
+django-filter
+django-rest-framework
+djangorestframework
